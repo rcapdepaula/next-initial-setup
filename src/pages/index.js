@@ -1,8 +1,8 @@
-import { H1, Wrapper } from '../styles/styles'
+import { Wrapper } from '../styles/Home.styles'
 const Index = () => {
   return (
     <Wrapper>
-      <H1>hello!!!!</H1>
+      <h1>NEXT JS</h1>
     </Wrapper>
   )
 }
